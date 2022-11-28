@@ -1,5 +1,5 @@
-
-      {
+[
+        {
       "id": 19,
       "name":"motocicleta",
       "price":11,
@@ -13,5 +13,6 @@
       "description":"carro de lalo",
       "image": "no hay imagen"
     }
+]
   
   
