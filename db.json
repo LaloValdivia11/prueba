@@ -1,18 +1,18 @@
-{
-  "products": [
-    {
+[
+      {
+      "id": 19,
+      "name":"motocicleta",
+      "price":11,
+      "description":"no hay imagen",
+      "image":"no hay imagen"
+    },
+   {
       "id": 18,
       "name": "Mustang del año",
       "price": 10,
       "description":"carro de lalo",
       "image": "no hay imagen"
     },
-    {
-      "id": 19,
-      "name":"motocicleta",
-      "price":11,
-      "description":"no hay imagen",
-      "image":"no hay imagen"
-    }
-  ]
-}
+  
+]
+  
